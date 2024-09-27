@@ -1,0 +1,13 @@
+{
+    "profile": {
+        "rol": "Programming Student/Diploma Holder",
+        "description": "First-year student of the Associate Degree in Programming at the National Technological University of Mar del Plata. I have completed and passed the Programming Diploma at UTN under the guidance of Professors Diego Caprioli and Carlos Cadabeira. Passionate about new technologies, my goal is to obtain my first job as a Programmer, whether in Web Development, Application Development, or Data Analysis, to start my career in the field of Computer Science."
+    },
+    "project":{
+        "name":"Music Player",
+        "first-project-title":"Music player featuring some songs from my favorite rock bands of the 60s and 70s."
+    },
+    "experience":{
+        "years":"Years of Experience"
+    }
+}

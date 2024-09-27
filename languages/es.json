@@ -1,0 +1,14 @@
+{
+    "profile": {
+        "rol": "Estudiante/Diplomado en Programación",
+        "description": "Estudiante de primer año de la carrera Tecnicatura en Programación por la Universidad Tecnológica Nacional de Mar del Plata. Tengo cursada y aprobada la Diplomatura en Programación por la UTN a cargo de los profesores Diego Caprioli y Carlos Cadabeira. Apasionado de las nuevas tecnologías, mi propósito es conseguir mi primer trabajo como Programador, ya sea en el Desarrollo Web, Desarrollo de Aplicaciones o en el Análisis de Datos para iniciar mi carrera en el campo de la Informática."
+    },
+    "project":{
+        "name":"Reproductor Musical",
+        "first-project-title":"Reproductor musical con algunas canciones de mis bandas de rock favoritas de las décadas de los 60 y 70."
+    },
+    "experience":{
+        "years":"Años de Experiencia"
+    }
+
+}
